@@ -1,7 +1,6 @@
 ### Hi there! I'm [Liam](tunglee.ink) 👋
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/realLiamturner/count.svg" />
@@ -26,13 +25,9 @@
 ### Github State
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=realLiamturner&show_icons=true&include_all_commits=true" alt="Liam's github stats" />
-  </a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=realLiamturner&show_icons=true&include_all_commits=true" alt="Liam's github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=realLiamturner&layout=compact" />
-  </a>
-
-
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=realLiamturner" /></a>
 
 <!--
 **realLiamTurner/realLiamturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
