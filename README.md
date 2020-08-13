@@ -24,10 +24,10 @@
 
 ### Github State
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=realLiamturner&show_icons=true&include_all_commits=true" alt="Liam's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=realLiamturner" /></a>
+<a href="https://github.com/realLiamTurner/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-iy98stbo5.vercel.app/api?username=realLiamturner&show_icons=true&include_all_commits=true" alt="Liam's github stats" /></a>
+<a href="https://github.com/realLiamTurner/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-iy98stbo5.vercel.app/api/top-langs/?username=realLiamturner" /></a>
 
 <!--
 **realLiamTurner/realLiamturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
