@@ -1,5 +1,5 @@
 ### Hi there! I'm [Liam](tunglee.ink) 👋
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="<img src="https://cdn.jsdelivr.net/gh/realLiamTurner/Image-Hosting-Service/realLiamTurner/README/20200813164152.png"/>">
 
 <p align="center"> 
   Visitor count<br>
