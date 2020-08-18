@@ -1,10 +1,7 @@
 ### Hi there! I'm [Liam](https://tunglee.ink/) 👋
 <img src="https://cdn.jsdelivr.net/gh/realLiamTurner/Image-Hosting-Service/realLiamTurner/README/20200813164152.png" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/realLiamturner/count.svg" />
-</p>
+
 
 ### Languages and Tools:
 
@@ -29,6 +26,11 @@
 <a href="https://github.com/realLiamTurner/github-readme-stats">
   <img align="center" src="https://github-readme-stats-iy98stbo5.vercel.app/api/top-langs/?username=realLiamturner&layout=compact" /></a>
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/realLiamturner/count.svg" />
+</p>
 <!--
 **realLiamTurner/realLiamturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
