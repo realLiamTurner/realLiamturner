@@ -26,6 +26,7 @@
 <a href="https://github.com/realLiamTurner/github-readme-stats">
   <img align="center" src="https://github-readme-stats-iy98stbo5.vercel.app/api/top-langs/?username=realLiamturner&layout=compact" /></a>
 
+------
 
 <p align="center"> 
   Visitor count<br>
